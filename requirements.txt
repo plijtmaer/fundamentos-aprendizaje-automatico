@@ -31,6 +31,7 @@ executing==2.2.1
 fastapi==0.119.1
 fastmcp==2.12.5
 filetype==1.2.0
+flaml==2.3.6
 flask==3.1.2
 flask-cors==6.0.1
 fonttools==4.60.1
@@ -163,6 +164,6 @@ wcwidth==0.2.14
 werkzeug==3.1.1
 widgetsnbextension==4.0.14
 wordcloud==1.9.4
-xgboost==3.1.1
+xgboost==2.1.4
 ydata-profiling==4.17.0
 zipp==3.23.0

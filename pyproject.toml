@@ -10,6 +10,7 @@ dependencies = [
     "ipykernel>=7.0.1",
     "ipywidgets>=8.1.7",
     "lazypredict>=0.2.16",
+    "pycaret>=3.3.2",
     "setuptools>=80.9.0",
     "ydata-profiling>=4.17.0",
 ]
