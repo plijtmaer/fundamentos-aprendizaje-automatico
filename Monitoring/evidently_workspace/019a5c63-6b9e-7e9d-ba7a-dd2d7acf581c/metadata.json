@@ -1,0 +1,7 @@
+{
+  "id": "019a5c63-6b9e-7e9d-ba7a-dd2d7acf581c",
+  "name": "Monitoreo Data Drift",
+  "description": "Comparo reference.csv vs current.csv",
+  "org_id": null,
+  "version": "2"
+}
